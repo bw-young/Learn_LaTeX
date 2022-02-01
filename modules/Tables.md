@@ -1,6 +1,6 @@
 [Back to Contents](../CONTENTS.md)
 
-[< Equations](Equations.md) | [Next >]()
+[< Equations](Equations.md) | [Figures >](Figures.md)
 
 ---
 
@@ -8,4 +8,4 @@
 
 ---
 
-[< Equations](Equations.md) | [Next >]()
+[< Equations](Equations.md) | [Figures >](Figures.md)
