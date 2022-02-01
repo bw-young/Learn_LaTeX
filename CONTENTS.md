@@ -5,7 +5,7 @@ Modules for teaching LaTeX.
 | Lesson |
 | ------ |
 | [What is LaTeX?](modules/Introduction.md) |
-| Setting Up a Document |
+| [Setting Up a Document](modules/NewArticle.md) |
 | Body Text |
 | Equations |
 | Tables |
