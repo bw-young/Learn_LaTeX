@@ -1,4 +1,4 @@
-[Back to Contents](../CONTENTS.md)
+[Back to Contents](../README.md)
 
 [Setting Up a New Document >](NewArticle.md)
 
