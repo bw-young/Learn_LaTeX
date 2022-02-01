@@ -1,6 +1,6 @@
 [Back to Contents](../CONTENTS.md)
 
-[< Introduction](Introduction.md) | Next >
+[< Introduction](Introduction.md) | [Body Text >](BodyText.md)
 
 ---
 
@@ -50,4 +50,4 @@ Although the title and authors were specified in the preamble, they are sorted i
 
 ---
 
-[< Introduction](Introduction.md) | Next >
+[< Introduction](Introduction.md) | [Body Text >](BodyText.md)
