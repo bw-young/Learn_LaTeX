@@ -1,6 +1,6 @@
 # Learn LaTeX
 
-Modules for teaching LaTeX.
+Modules for learning LaTeX.
 
 | Lesson |
 | ------ |
