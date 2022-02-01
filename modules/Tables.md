@@ -1,6 +1,6 @@
 [Back to Contents](../CONTENTS.md)
 
-[< Setting Up a New Document](Equations.md) | [Next >]()
+[< Equations](Equations.md) | [Next >]()
 
 ---
 
@@ -8,4 +8,4 @@
 
 ---
 
-[< Setting Up a New Document](Equations.md) | [Next >]()
+[< Equations](Equations.md) | [Next >]()
