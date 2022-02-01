@@ -5,9 +5,6 @@ Modules for teaching LaTeX.
 | Lesson |
 | ------ |
 | [What is LaTeX?](modules/Introduction.md) |
-| The Document Class |
-| Packages |
-| Environments |
 | Setting Up a Document |
 | Body Text |
 | Equations |
