@@ -4,7 +4,7 @@ Modules for teaching LaTeX.
 
 | Lesson |
 | ------ |
-| What is LaTeX? |
+| [What is LaTeX?](modules/Introduction.md) |
 | The Document Class |
 | Packages |
 | Environments |
