@@ -7,7 +7,7 @@ Modules for teaching LaTeX.
 | [What is LaTeX?](modules/Introduction.md) |
 | [Setting Up a Document](modules/NewArticle.md) |
 | [Body Text](modules/BodyText.md) |
-| Equations |
+| [Equations](modules/Equations.md) |
 | Tables |
 | Figures |
 | The Bibliography |
