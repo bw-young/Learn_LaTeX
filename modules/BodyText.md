@@ -66,6 +66,18 @@ And that's why you can totally trust this research.
 This is what came of all that hard work.
 ```
 
+If you don't want a section or heading to have a number, simply include an asterisk (\*). This will not increment the heading number, so you can jump from section 1 to section (no number) to section 2.
+
+```latex
+\section*{Unnumbered Section}
+
+This section has no number
+
+\section{Numbered Section}
+
+But this one does!
+```
+
 ---
 
 [< Setting Up a New Document](NewArticle.md) | [Equations >](Equations.md)
