@@ -1,6 +1,6 @@
 [Back to Contents](../CONTENTS.md)
 
-[< Setting Up a New Document](NewArticle.md) | Next >
+[< Setting Up a New Document](NewArticle.md) | [Equations >](Equations.md)
 
 ---
 
@@ -68,4 +68,4 @@ This is what came of all that hard work.
 
 ---
 
-[< Setting Up a New Document](NewArticle.md) | Next >
+[< Setting Up a New Document](NewArticle.md) | [Equations >](Equations.md)
