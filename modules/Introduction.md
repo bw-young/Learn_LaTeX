@@ -1,3 +1,5 @@
+[Back to Contents](../CONTENTS.md)
+
 # What is LaTeX? #
 
 LaTeX is a sort of programming language that was designed for preparing scientific and technical documents. Where Word, Open Office, Google Docs, and other apps allow you to perform word processing and insert images and tables, it can be challenging to keep the formatting consistent or work with equations. LaTeX aims to make it easy to achieve uniformity and establish consistent, rule-based formatting and layout.
