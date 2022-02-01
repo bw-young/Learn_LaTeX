@@ -1,5 +1,9 @@
 [Back to Contents](../CONTENTS.md)
 
+[Setting Up a New Document >](NewArticle.md)
+
+---
+
 # What is LaTeX? #
 
 LaTeX is a sort of programming language that was designed for preparing scientific and technical documents. Where Word, Open Office, Google Docs, and other apps allow you to perform word processing and insert images and tables, it can be challenging to keep the formatting consistent or work with equations. LaTeX aims to make it easy to achieve uniformity and establish consistent, rule-based formatting and layout.
@@ -71,3 +75,7 @@ The 'geometry' package, for example, is useful for adjusting the general layout 
 Environments are spaces with special rules within your document. At its simplest level, these are spaces where LaTeX "knows" what to do with its contents. Everything you wish to go into your document will be in the 'document' environment. If you type words outside of your document environment, LaTeX may fail to compile your document because it doesn't know what to do with words outside of an environment!
 
 You may create and nest other environments, such as an equation or table, within your document. Each environment begins with the ```\begin{}``` command and ends with the ```\end{}``` command.
+
+---
+
+[Setting Up a New Document >](NewArticle.md)
