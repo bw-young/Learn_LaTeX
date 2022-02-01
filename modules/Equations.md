@@ -1,6 +1,6 @@
 [Back to Contents](../CONTENTS.md)
 
-[< Body Text](BodyText.md) | [Next >]()
+[< Body Text](BodyText.md) | [Tables >](Tables.md)
 
 ---
 
@@ -100,4 +100,4 @@ where $\sigma$ is the standard deviation of population $x$ of $N$ elements and a
 
 ---
 
-[< Body Text](BodyText.md) | [Next >]()
+[< Body Text](BodyText.md) | [Tables >](Tables.md)
